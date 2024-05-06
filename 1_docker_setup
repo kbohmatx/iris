@@ -1,0 +1,5 @@
+# Docker and Server Setup.
+1. To run code in IRIS, an IRIS Server is needed.
+2. Here's a free sample server that can be used:  http://72.14.190.117:52773/csp/sys/%25CSP.Portal.Home.zen?IRISLogout=end
+3. Login/Pass: dev/dev
+4. The System Explorer allows you to see the code base.
