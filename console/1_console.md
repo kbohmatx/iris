@@ -1,4 +1,4 @@
-# A person can run Iris commands in console mode via VSCode.
+# VSCode offers a good way to interact w/ language features. Cut n Paste works and copy from clipboard.
 
 1. Click Intersystems Extension.
 2. Click Servers.
