@@ -1,4 +1,4 @@
-# A person can run Iris commands in console mode via VSCode which is a bit easier Linux CL.
+# A person can run Iris commands in console mode via VSCode.
 
 1. Click Intersystems Extension.
 2. Click Servers.
