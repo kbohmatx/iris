@@ -1,4 +1,6 @@
 # Create a class 
+https://learning.intersystems.com/course/view.php?name=IRIS%20Class
+
 Class Demo.Company Extends (%Persistent, %Library.Populate)
 {
 /// Name
