@@ -1,6 +1,6 @@
 # These docs delve into the fundamentals of the Objectscript Language. 
-# I've curated a collection of important links that I've personally used to learn these examples. 
-# Most of the examples can be executed via the shell, making your learning experience more interactive and engaging.
+I've curated a collection of important links that I've personally used to learn these examples. 
+Most of the examples can be executed via the shell, making your learning experience more interactive and engaging.
 
 # The following topics cover the basics of language:
 1. Commands
