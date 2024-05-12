@@ -7,7 +7,7 @@
 4. Looping
 
 Language constructs:
-https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=TOS
+https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_intro
 
 "How to" reference pages:
 1. commands:  https://docs.intersystems.com/supplychain20241/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_commands
