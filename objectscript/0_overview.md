@@ -1,15 +1,15 @@
-# These docs cover the fundamentals of the Objectscript Language. I've include important links I've used to learn these examples.  Most of the examples can be executed via the shell.
+# These docs delve into the practical fundamentals of the Objectscript Language. I've curated a collection of important links that I've personally used to learn these examples. Most of the examples can be executed via the shell, making your learning experience more interactive and engaging.
 
-# At a basic level, the areas to cover begin with the following topics:
+# The following topics cover the basics of language:
 1. Commands
 2. Variables.
 3. Expressions.
 4. Looping
 
-Here's a tutorial type page to get examples of basic language constructs:
+Language constructs:
 https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=TOS
 
-These are "how to" reference pages for the language spec:
+"How to" reference pages:
 1. commands:  https://docs.intersystems.com/supplychain20241/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_commands
 2. variables: https://docs.intersystems.com/supplychain20241/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_variables
 3. data types: https://docs.intersystems.com/supplychain20241/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_types#GCOS_types_stringconcat
