@@ -2,6 +2,9 @@
 I've curated a collection of important links that I've personally used to learn these examples. 
 Most of the examples can be executed via the shell, making your learning experience more interactive and engaging.
 
+Object Script Tutorial:
+https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=TOS
+
 # The following topics cover the basics of language:
 1. Commands
 2. Variables.
