@@ -5,3 +5,5 @@
 3. Click namespace.
 4. Select "Launch Web Socket Terminal"
    
+# Web  Terminal
+http://72.14.190.117:52773/terminal/
